@@ -3,7 +3,7 @@
 
 ### 1-) A screenshot of the accounts you created
 
-<img src="" />
+<img src="https://github.com/blockgeek0/Gitcoin-Nervos/blob/master/gitcoin-11/accounts.png" />
 
 
 ### 2-) A link to the Layer 1 address you funded on the Testnet Explorer
@@ -12,11 +12,12 @@
 
 ### 3-) A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2
 
-<img src="" />
+- Check out the explorer link to see that transaction was confirmed. I executed command twice but both gave the same result.
+<img src="https://github.com/blockgeek0/Gitcoin-Nervos/blob/master/gitcoin-11/depo.png" />
 
 ### 4-) A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2
 
-<img src="" />
+<img src="https://github.com/blockgeek0/Gitcoin-Nervos/blob/master/gitcoin-11/contr.png" />
 
 ### 5) The transaction hash of the "Contract call" from the console output
 
